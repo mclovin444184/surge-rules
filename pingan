@@ -1,0 +1,6 @@
+# 平安银行走直连规则
+DOMAIN-SUFFIX,pingan.com
+DOMAIN-SUFFIX,pingan.com.cn
+DOMAIN-KEYWORD,pingan
+DOMAIN,bank.pingan.com
+DOMAIN,mbank.pingan.com
